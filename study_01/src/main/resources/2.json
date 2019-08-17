@@ -150,8 +150,7 @@
     "messageRemark": "备注",
     "msgTypeName": "消息类型",
     "deleteStatus":"删除状态0正常1删除"
-  }
-,
+  },
 "msgPush2":[[{
     "interfaceId": "接口IDhuihui",
     "msgTempId": "消息模板ID",
@@ -162,4 +161,48 @@
     "messageRemark": "备注",
     "msgTypeName": "消息类型",
     "deleteStatus":"删除状态0正常1删除"
- } ]]}
+ }],[{
+  "interfaceId": "22",
+  "msgTempId": "消息模板ID",
+  "triggerJson": "推送条件",
+  "metadataId": "元数据ID",
+  "messageTemplateName": "消息模板名称",
+  "messageStatus": "状态0否1是",
+  "messageRemark": "备注",
+  "msgTypeName": "消息类型",
+  "deleteStatus":"删除状态0正常1删除"
+} ],[{
+  "interfaceId": "44",
+  "msgTempId": "消息模板ID",
+  "triggerJson": "推送条件",
+  "metadataId": "元数据ID",
+  "messageTemplateName": "消息模板名称",
+  "messageStatus": "状态0否1是",
+  "messageRemark": "备注",
+  "msgTypeName": "消息类型",
+  "deleteStatus":"删除状态0正常1删除"
+} ]],
+  "msgPush22":[{
+    "interfaceId": "55",
+    "msgTempId": "消息模板ID",
+    "triggerJson": "推送条件",
+    "metadataId": "元数据ID",
+    "messageTemplateName": "消息模板名称",
+    "messageStatus": "状态0否1是",
+    "messageRemark": "备注",
+    "msgTypeName": "消息类型",
+    "deleteStatus":"删除状态0正常1删除"
+  },{
+    "interfaceId": "66",
+    "msgTempId": "消息模板ID",
+    "triggerJson": "推送条件",
+    "metadataId": "元数据ID",
+    "messageTemplateName": "消息模板名称",
+    "messageStatus": "状态0否1是",
+    "messageRemark": "备注",
+    "msgTypeName": "消息类型",
+    "deleteStatus":"删除状态0正常1删除"
+  }]
+
+
+}
