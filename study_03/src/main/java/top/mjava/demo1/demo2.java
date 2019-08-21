@@ -10,7 +10,7 @@ public class demo2 {
         String s5="t3";
         String s6="t3";
 
-        System.out.println("s3==s4:"+(s3==s4));
+        System.out.println("s2==s3:"+(s2==s3));
         System.out.println("s5==s6:"+(s5==s6));
     }
 }
